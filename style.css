@@ -17,7 +17,7 @@ font-family: 'PT Sans', sans-serif;
     max-width: 100%;
     max-height: 100%;
     border-radius: 50%;
-    padding: 20px;
+    padding: 5px;
     border: solid  #19A7CE 10px;
     background-color: white;
 }
@@ -39,6 +39,10 @@ body {
     justify-content: center;
     max-width: 100%;
     max-height: 100%;
+}
+#id instagram{
+    margin: 10px;
+    margin-top: 0px;
 }
 #resume{
     margin: 10px;
@@ -66,4 +70,6 @@ body {
     z-index: -1;
     border-radius: 5%;
     margin-top: 90px;
+    box-shadow: 2px 8px 16px rgba(0, 0, 0, 0.513);
+    
 }
